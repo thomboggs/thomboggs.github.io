@@ -6,6 +6,12 @@ permalink: /about/
 
 My name is Thomas, an electrical-engineer/audio-developer/musician living in Atlanta, Georgia.
 
+To add:
+social media
+projects
+classes currently taken 
+links to cool things i have found
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
