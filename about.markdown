@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Thomas, an electrical-engineer/audio-eveloper/musician living in Atlanta, Georgia.
+My name is Thomas, an electrical-engineer/audio-developer/musician living in Atlanta, Georgia.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
