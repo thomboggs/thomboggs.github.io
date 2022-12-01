@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Thomas, an electrical-engineer/audio-developer/musician living in Atlanta, Georgia.
+My name is Thomas, an audio software developer and musician living in Atlanta, Georgia.
 
 To add:
 social media
