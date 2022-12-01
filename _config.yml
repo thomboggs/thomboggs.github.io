@@ -21,10 +21,10 @@
 title: Thimbly
 email: thomboggs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-        Music, Electronics, musings. 
+        Programming and Music portfolio. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: thimblythom
 github_username:  thomboggs
 
 # Build settings
