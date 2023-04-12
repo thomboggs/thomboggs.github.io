@@ -8,7 +8,6 @@ My name is Thomas, an audio software developer and musician living in Atlanta, G
 
 To add:
 
-- social media
 - projects
 - Resumé
 - links to cool things i have found
