@@ -13,11 +13,15 @@ I have two versions of this fun little project, one written using Qt and one wri
 Sample Screenshot:
 ![Screenshot of my FractalFactory App](assets/FractalFactoryJuce-ScreenShot.png)
 
-- [Juce Fractal Factory](https://github.com/thomboggs/FractalFactory_JUCE)
+- [JUCE Fractal Factory](https://github.com/thomboggs/FractalFactory_JUCE)
 - [Qt Fractal Factory](https://github.com/thomboggs/FractalFactory)
 
 ### Next Steps 
 
-- Improved multi-threading for quicker calculation.
+- Add multithreading
+- Clean up implementations
+- Clean Up Style
+- Add Zooming
+- Add controllable calculation parameters
 
 ## Bass Preamp Plugin
