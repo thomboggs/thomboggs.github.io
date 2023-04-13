@@ -16,12 +16,4 @@ Sample Screenshot:
 - [JUCE Fractal Factory](https://github.com/thomboggs/FractalFactory_JUCE)
 - [Qt Fractal Factory](https://github.com/thomboggs/FractalFactory)
 
-### Next Steps 
-
-- Add multithreading
-- Clean up implementations
-- Clean Up Style
-- Add Zooming
-- Add controllable calculation parameters
-
 ## Bass Preamp Plugin
