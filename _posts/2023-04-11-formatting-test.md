@@ -21,3 +21,10 @@ int main() {
 * Single Asterisk 2
 
 *Wrapped Asterisk*
+
+```mermaid
+
+flowchart LR
+    a --> b
+
+```
