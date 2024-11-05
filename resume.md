@@ -9,7 +9,7 @@ thom.boggs@gmail.com<br>
 +1 770 876 0072<br>
 https://github.com/thomboggs <br>
 
-## Professional Experience - Software Engineering
+## Professional Experience
 
 ### Software Engineer - Izotope Inc.
 
@@ -30,9 +30,10 @@ https://github.com/thomboggs <br>
 - Optimized DSP code and benchmarked improvements 
 - **Relevant Skills:** C++ real-time and multithreaded, Python, Git, DSP, Digital Audio, Jenkins, JIRA
 
-## Professional Experience - Mixed-Signal Silicon Validation
-### Senior Hardware Validation Engineer – Silicon Creations – Atlanta, GA		    
+### Senior Hardware Validation Engineer – Silicon Creations – Atlanta, GA		
+
 #### April 2018 to January 2022
+
 - Lead test plan development and performance characterization of new Circuit IP (PLLs, SERDES, etc.) 
 - Test Automation in MATLAB and Python, (via GPIB, VISA, TCP/IP, microcontrollers)
 - Data Analysis and visualization in Python (Pandas, Numpy, MatPlotLib, Plotly) and Matlab
@@ -41,8 +42,10 @@ https://github.com/thomboggs <br>
 - Root-cause performance issues and work with designers to implement fix and/or update specifications
 - **Relevant Skills:** Python/Matlab/C test automation and data analysis, Lab Equipment (Oscilloscope, Spectrum analyzer, VNA, JBERT)
 
-### Mixed Signal Design Validation Engineer – NVIDIA – Santa Clara, CA		    
+### Mixed Signal Design Validation Engineer – NVIDIA – Santa Clara, CA		 
+
 #### March 2013 to March 2018
+
 - Characterize circuit performance and test PLLs and other circuit blocks for functional and performance limits
 - Lead development and execution of strategic test plans for new process nodes and designs, working with design team and leadership to gain buy-in and ensure comprehensive evaluation of new chips
 - Provide expert insight and educate junior colleagues as company-wide point of contact for PLL testing and validation
@@ -50,20 +53,27 @@ https://github.com/thomboggs <br>
 - **Relevant Skills:** TCL/JS/Python test automation and data analysis. High-speed lab equipment for data collection and debug
 
 ## Education
-### Udacity C++ Nanodegree									                 
+
+### Udacity C++ Nanodegree		
+
 #### August 2021
+
 Course covers C++ fundamentals, memory management, and concurrency 
 
-### Georgia Institute of Technology								            
+### Georgia Institute of Technology	
+
 Master of Science in Electrical Engineering (3.6/4.0 GPA) December 2012
 Focused on mixed-signal IC and system design, 
 
-### Georgia Institute of Technology								            	          
+### Georgia Institute of Technology		
+
 Bachelor of Science in Electrical Engineering, With High Honors in July 2011
 Focused on analog IC design, Music Technology, and Audio Engineering
 
 ## Personal
+
 ### Lifelong Musician
+
 - President of Georgia Tech Musician’s Network, an on-campus music venue and recording studio
 - Recorded Music for myself and others
 - Booked shows and ran live sound for touring and local musicians
